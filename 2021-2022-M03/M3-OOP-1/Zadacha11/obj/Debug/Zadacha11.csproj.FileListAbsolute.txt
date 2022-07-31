@@ -1,0 +1,7 @@
+F:\repos\M3-OOP-1\Zadacha11\bin\Debug\Zadacha11.exe.config
+F:\repos\M3-OOP-1\Zadacha11\bin\Debug\Zadacha11.exe
+F:\repos\M3-OOP-1\Zadacha11\bin\Debug\Zadacha11.pdb
+F:\repos\M3-OOP-1\Zadacha11\obj\Debug\Zadacha11.csprojAssemblyReference.cache
+F:\repos\M3-OOP-1\Zadacha11\obj\Debug\Zadacha11.csproj.CoreCompileInputs.cache
+F:\repos\M3-OOP-1\Zadacha11\obj\Debug\Zadacha11.exe
+F:\repos\M3-OOP-1\Zadacha11\obj\Debug\Zadacha11.pdb

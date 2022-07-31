@@ -1,0 +1,6 @@
+F:\repos\M3-OOP-1\Zadacha08\bin\Debug\Zadacha08.exe.config
+F:\repos\M3-OOP-1\Zadacha08\bin\Debug\Zadacha08.exe
+F:\repos\M3-OOP-1\Zadacha08\bin\Debug\Zadacha08.pdb
+F:\repos\M3-OOP-1\Zadacha08\obj\Debug\Zadacha08.csproj.CoreCompileInputs.cache
+F:\repos\M3-OOP-1\Zadacha08\obj\Debug\Zadacha08.exe
+F:\repos\M3-OOP-1\Zadacha08\obj\Debug\Zadacha08.pdb
