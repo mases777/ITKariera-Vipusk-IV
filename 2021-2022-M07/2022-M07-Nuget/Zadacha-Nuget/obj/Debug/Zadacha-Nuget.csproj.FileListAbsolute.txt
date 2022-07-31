@@ -1,0 +1,8 @@
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\bin\Debug\Zadacha-Nuget.exe.config
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\bin\Debug\Zadacha-Nuget.exe
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\bin\Debug\Zadacha-Nuget.pdb
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\obj\Debug\Zadacha-Nuget.csproj.AssemblyReference.cache
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\obj\Debug\Zadacha-Nuget.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\obj\Debug\Zadacha-Nuget.csproj.CoreCompileInputs.cache
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\obj\Debug\Zadacha-Nuget.exe
+F:\repos\2022-M07-Nuget\Zadacha-Nuget\obj\Debug\Zadacha-Nuget.pdb

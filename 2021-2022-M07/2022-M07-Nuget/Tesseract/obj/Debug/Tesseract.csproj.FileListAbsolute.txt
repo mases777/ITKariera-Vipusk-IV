@@ -1,0 +1,14 @@
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\x86\leptonica-1.80.0.dll
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\x86\tesseract41.dll
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\x64\leptonica-1.80.0.dll
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\x64\tesseract41.dll
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\Tesseract.exe.config
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\Tesseract.exe
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\Tesseract.pdb
+F:\repos\2022-M07-Nuget\Tesseract\bin\Debug\Tesseract.dll
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.csproj.AssemblyReference.cache
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.csproj.CoreCompileInputs.cache
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.csproj.CopyComplete
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.exe
+F:\repos\2022-M07-Nuget\Tesseract\obj\Debug\Tesseract.pdb

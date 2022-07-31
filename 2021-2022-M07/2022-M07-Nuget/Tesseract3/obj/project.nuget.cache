@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaYUlZhRi6Hiwo/vbYqc/ngzMbeyZDHoNT/TdmADR3LXl1D4QKQQU18K/cG4YtKi7W8dvJSLo4EnsVW1Sj3i+A==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\2022-M07-Nuget\\Tesseract3\\Tesseract3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user_GN\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\user_GN\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

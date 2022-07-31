@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e3b1748-609f-445b-ae9a-2450ba07aa01": {
+      "ProjectGuid": "4e3b1748-609f-445b-ae9a-2450ba07aa01",
+      "DisplayName": "Zadacha-Nuget",
+      "ColorIndex": 0
+    },
+    "3c7e4818-86de-436a-a376-ce05375e482b": {
+      "ProjectGuid": "3c7e4818-86de-436a-a376-ce05375e482b",
+      "DisplayName": "JsonApp",
+      "ColorIndex": 1
+    },
+    "4d7a068e-13bc-43fc-a612-3c0929891ba6": {
+      "ProjectGuid": "4d7a068e-13bc-43fc-a612-3c0929891ba6",
+      "DisplayName": "Tesseract",
+      "ColorIndex": 2
+    },
+    "899ce377-b95d-427c-89ee-8fca387da3e9": {
+      "ProjectGuid": "899ce377-b95d-427c-89ee-8fca387da3e9",
+      "DisplayName": "Tesseract2",
+      "ColorIndex": 3
+    },
+    "5f4271cd-976f-4014-b8c7-c423d3d2c3c0": {
+      "ProjectGuid": "5f4271cd-976f-4014-b8c7-c423d3d2c3c0",
+      "DisplayName": "Tesseract3",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

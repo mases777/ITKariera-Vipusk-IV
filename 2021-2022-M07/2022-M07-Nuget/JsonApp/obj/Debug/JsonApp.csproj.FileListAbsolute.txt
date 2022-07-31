@@ -1,0 +1,11 @@
+F:\repos\2022-M07-Nuget\JsonApp\bin\Debug\JsonApp.exe.config
+F:\repos\2022-M07-Nuget\JsonApp\bin\Debug\JsonApp.exe
+F:\repos\2022-M07-Nuget\JsonApp\bin\Debug\JsonApp.pdb
+F:\repos\2022-M07-Nuget\JsonApp\bin\Debug\Newtonsoft.Json.dll
+F:\repos\2022-M07-Nuget\JsonApp\bin\Debug\Newtonsoft.Json.xml
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.csproj.AssemblyReference.cache
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.csproj.CoreCompileInputs.cache
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.csproj.CopyComplete
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.exe
+F:\repos\2022-M07-Nuget\JsonApp\obj\Debug\JsonApp.pdb
