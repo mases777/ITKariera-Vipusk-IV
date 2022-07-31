@@ -1,0 +1,6 @@
+F:\repos\M4-ASD-01\BubbleSort\bin\Debug\BubbleSort.exe.config
+F:\repos\M4-ASD-01\BubbleSort\bin\Debug\BubbleSort.exe
+F:\repos\M4-ASD-01\BubbleSort\bin\Debug\BubbleSort.pdb
+F:\repos\M4-ASD-01\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+F:\repos\M4-ASD-01\BubbleSort\obj\Debug\BubbleSort.exe
+F:\repos\M4-ASD-01\BubbleSort\obj\Debug\BubbleSort.pdb

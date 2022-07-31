@@ -1,0 +1,7 @@
+F:\repos\2021-07-04-Izpit\Library\bin\Debug\Library.exe.config
+F:\repos\2021-07-04-Izpit\Library\bin\Debug\Library.exe
+F:\repos\2021-07-04-Izpit\Library\bin\Debug\Library.pdb
+F:\repos\2021-07-04-Izpit\Library\obj\Debug\Library.csprojAssemblyReference.cache
+F:\repos\2021-07-04-Izpit\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\repos\2021-07-04-Izpit\Library\obj\Debug\Library.exe
+F:\repos\2021-07-04-Izpit\Library\obj\Debug\Library.pdb

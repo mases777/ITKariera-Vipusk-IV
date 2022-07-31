@@ -1,0 +1,7 @@
+F:\repos\M4-ASD-01\Train\bin\Debug\Train.exe.config
+F:\repos\M4-ASD-01\Train\bin\Debug\Train.exe
+F:\repos\M4-ASD-01\Train\bin\Debug\Train.pdb
+F:\repos\M4-ASD-01\Train\obj\Debug\Train.csprojAssemblyReference.cache
+F:\repos\M4-ASD-01\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+F:\repos\M4-ASD-01\Train\obj\Debug\Train.exe
+F:\repos\M4-ASD-01\Train\obj\Debug\Train.pdb

@@ -1,0 +1,7 @@
+F:\repos\M4-ASD-01\Product\bin\Debug\Product.exe.config
+F:\repos\M4-ASD-01\Product\bin\Debug\Product.exe
+F:\repos\M4-ASD-01\Product\bin\Debug\Product.pdb
+F:\repos\M4-ASD-01\Product\obj\Debug\Product.csprojAssemblyReference.cache
+F:\repos\M4-ASD-01\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+F:\repos\M4-ASD-01\Product\obj\Debug\Product.exe
+F:\repos\M4-ASD-01\Product\obj\Debug\Product.pdb

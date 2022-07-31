@@ -1,0 +1,7 @@
+F:\repos\M4-ASD-01\School\bin\Debug\School.exe.config
+F:\repos\M4-ASD-01\School\bin\Debug\School.exe
+F:\repos\M4-ASD-01\School\bin\Debug\School.pdb
+F:\repos\M4-ASD-01\School\obj\Debug\School.csprojAssemblyReference.cache
+F:\repos\M4-ASD-01\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+F:\repos\M4-ASD-01\School\obj\Debug\School.exe
+F:\repos\M4-ASD-01\School\obj\Debug\School.pdb
