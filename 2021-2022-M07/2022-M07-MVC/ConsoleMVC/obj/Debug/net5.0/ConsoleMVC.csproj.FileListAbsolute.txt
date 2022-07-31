@@ -1,0 +1,16 @@
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.exe
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.deps.json
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.json
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.dev.json
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.dll
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ref\ConsoleMVC.dll
+F:\repos\2022-M07-MVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.pdb
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csprojAssemblyReference.cache
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfoInputs.cache
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfo.cs
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csproj.CoreCompileInputs.cache
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.dll
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ref\ConsoleMVC.dll
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.pdb
+F:\repos\2022-M07-MVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.genruntimeconfig.cache
