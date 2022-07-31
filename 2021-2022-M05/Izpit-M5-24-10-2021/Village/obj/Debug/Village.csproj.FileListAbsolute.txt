@@ -1,0 +1,7 @@
+F:\repos\Izpit-M5-24-10-2021\Village\bin\Debug\Village.exe.config
+F:\repos\Izpit-M5-24-10-2021\Village\bin\Debug\Village.exe
+F:\repos\Izpit-M5-24-10-2021\Village\bin\Debug\Village.pdb
+F:\repos\Izpit-M5-24-10-2021\Village\obj\Debug\Village.csprojAssemblyReference.cache
+F:\repos\Izpit-M5-24-10-2021\Village\obj\Debug\Village.csproj.CoreCompileInputs.cache
+F:\repos\Izpit-M5-24-10-2021\Village\obj\Debug\Village.exe
+F:\repos\Izpit-M5-24-10-2021\Village\obj\Debug\Village.pdb
