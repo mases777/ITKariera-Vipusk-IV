@@ -1,0 +1,7 @@
+F:\repos\M2-Array\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\repos\M2-Array\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\repos\M2-Array\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\repos\M2-Array\ConsoleApp1\obj\Debug\Zadacha07.csprojAssemblyReference.cache
+F:\repos\M2-Array\ConsoleApp1\obj\Debug\Zadacha07.csproj.CoreCompileInputs.cache
+F:\repos\M2-Array\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\repos\M2-Array\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

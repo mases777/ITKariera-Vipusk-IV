@@ -1,0 +1,6 @@
+F:\repos\M2-Dictionary\Commands\bin\Debug\Commands.exe.config
+F:\repos\M2-Dictionary\Commands\bin\Debug\Commands.exe
+F:\repos\M2-Dictionary\Commands\bin\Debug\Commands.pdb
+F:\repos\M2-Dictionary\Commands\obj\Debug\Commands.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\Commands\obj\Debug\Commands.exe
+F:\repos\M2-Dictionary\Commands\obj\Debug\Commands.pdb

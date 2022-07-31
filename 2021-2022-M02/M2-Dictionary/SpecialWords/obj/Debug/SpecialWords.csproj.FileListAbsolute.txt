@@ -1,0 +1,6 @@
+F:\repos\M2-Dictionary\SpecialWords\bin\Debug\SpecialWords.exe.config
+F:\repos\M2-Dictionary\SpecialWords\bin\Debug\SpecialWords.exe
+F:\repos\M2-Dictionary\SpecialWords\bin\Debug\SpecialWords.pdb
+F:\repos\M2-Dictionary\SpecialWords\obj\Debug\SpecialWords.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\SpecialWords\obj\Debug\SpecialWords.exe
+F:\repos\M2-Dictionary\SpecialWords\obj\Debug\SpecialWords.pdb

@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\SpringClothes\bin\Debug\SpringClothes.exe.config
+F:\repos\M2-Dictionary\SpringClothes\bin\Debug\SpringClothes.exe
+F:\repos\M2-Dictionary\SpringClothes\bin\Debug\SpringClothes.pdb
+F:\repos\M2-Dictionary\SpringClothes\obj\Debug\SpringClothes.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\SpringClothes\obj\Debug\SpringClothes.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\SpringClothes\obj\Debug\SpringClothes.exe
+F:\repos\M2-Dictionary\SpringClothes\obj\Debug\SpringClothes.pdb

@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\Numbers\bin\Debug\Numbers.exe.config
+F:\repos\M2-Dictionary\Numbers\bin\Debug\Numbers.exe
+F:\repos\M2-Dictionary\Numbers\bin\Debug\Numbers.pdb
+F:\repos\M2-Dictionary\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\Numbers\obj\Debug\Numbers.exe
+F:\repos\M2-Dictionary\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,6 @@
+F:\repos\M2-Dictionary\ShoppingBill\bin\Debug\ShoppingBill.exe.config
+F:\repos\M2-Dictionary\ShoppingBill\bin\Debug\ShoppingBill.exe
+F:\repos\M2-Dictionary\ShoppingBill\bin\Debug\ShoppingBill.pdb
+F:\repos\M2-Dictionary\ShoppingBill\obj\Debug\ShoppingBill.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\ShoppingBill\obj\Debug\ShoppingBill.exe
+F:\repos\M2-Dictionary\ShoppingBill\obj\Debug\ShoppingBill.pdb

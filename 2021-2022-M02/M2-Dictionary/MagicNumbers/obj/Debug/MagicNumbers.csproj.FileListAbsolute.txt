@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+F:\repos\M2-Dictionary\MagicNumbers\bin\Debug\MagicNumbers.exe
+F:\repos\M2-Dictionary\MagicNumbers\bin\Debug\MagicNumbers.pdb
+F:\repos\M2-Dictionary\MagicNumbers\obj\Debug\MagicNumbers.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\MagicNumbers\obj\Debug\MagicNumbers.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\MagicNumbers\obj\Debug\MagicNumbers.exe
+F:\repos\M2-Dictionary\MagicNumbers\obj\Debug\MagicNumbers.pdb

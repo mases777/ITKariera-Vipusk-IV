@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\CryptoInvest\bin\Debug\CryptoInvest.exe.config
+F:\repos\M2-Dictionary\CryptoInvest\bin\Debug\CryptoInvest.exe
+F:\repos\M2-Dictionary\CryptoInvest\bin\Debug\CryptoInvest.pdb
+F:\repos\M2-Dictionary\CryptoInvest\obj\Debug\CryptoInvest.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\CryptoInvest\obj\Debug\CryptoInvest.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\CryptoInvest\obj\Debug\CryptoInvest.exe
+F:\repos\M2-Dictionary\CryptoInvest\obj\Debug\CryptoInvest.pdb

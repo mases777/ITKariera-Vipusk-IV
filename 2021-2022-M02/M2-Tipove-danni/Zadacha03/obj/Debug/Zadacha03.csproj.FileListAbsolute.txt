@@ -1,0 +1,7 @@
+F:\repos\M2-Tipove-danni\Zadacha03\bin\Debug\Zadacha03.exe.config
+F:\repos\M2-Tipove-danni\Zadacha03\bin\Debug\Zadacha03.exe
+F:\repos\M2-Tipove-danni\Zadacha03\bin\Debug\Zadacha03.pdb
+F:\repos\M2-Tipove-danni\Zadacha03\obj\Debug\Zadacha03.csprojAssemblyReference.cache
+F:\repos\M2-Tipove-danni\Zadacha03\obj\Debug\Zadacha03.csproj.CoreCompileInputs.cache
+F:\repos\M2-Tipove-danni\Zadacha03\obj\Debug\Zadacha03.exe
+F:\repos\M2-Tipove-danni\Zadacha03\obj\Debug\Zadacha03.pdb

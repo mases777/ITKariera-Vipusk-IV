@@ -1,0 +1,7 @@
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\bin\Debug\01.FitnessEquipment.exe.config
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\bin\Debug\01.FitnessEquipment.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\bin\Debug\01.FitnessEquipment.pdb
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\obj\Debug\01.FitnessEquipment.csprojAssemblyReference.cache
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\obj\Debug\01.FitnessEquipment.csproj.CoreCompileInputs.cache
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\obj\Debug\01.FitnessEquipment.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\01.FitnessEquipment\obj\Debug\01.FitnessEquipment.pdb

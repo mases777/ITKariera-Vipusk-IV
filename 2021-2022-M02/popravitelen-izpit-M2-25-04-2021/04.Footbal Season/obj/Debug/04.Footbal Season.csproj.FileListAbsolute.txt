@@ -1,0 +1,7 @@
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\bin\Debug\04.Footbal Season.exe.config
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\bin\Debug\04.Footbal Season.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\bin\Debug\04.Footbal Season.pdb
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\obj\Debug\04.Footbal Season.csprojAssemblyReference.cache
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\obj\Debug\04.Footbal Season.csproj.CoreCompileInputs.cache
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\obj\Debug\04.Footbal Season.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\04.Footbal Season\obj\Debug\04.Footbal Season.pdb

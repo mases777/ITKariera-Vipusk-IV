@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\BasketballSeason\bin\Debug\BasketballSeason.exe.config
+F:\repos\M2-Dictionary\BasketballSeason\bin\Debug\BasketballSeason.exe
+F:\repos\M2-Dictionary\BasketballSeason\bin\Debug\BasketballSeason.pdb
+F:\repos\M2-Dictionary\BasketballSeason\obj\Debug\BasketballSeason.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\BasketballSeason\obj\Debug\BasketballSeason.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\BasketballSeason\obj\Debug\BasketballSeason.exe
+F:\repos\M2-Dictionary\BasketballSeason\obj\Debug\BasketballSeason.pdb

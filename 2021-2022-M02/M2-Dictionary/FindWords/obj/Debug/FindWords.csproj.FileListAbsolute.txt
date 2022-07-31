@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\FindWords\bin\Debug\FindWords.exe.config
+F:\repos\M2-Dictionary\FindWords\bin\Debug\FindWords.exe
+F:\repos\M2-Dictionary\FindWords\bin\Debug\FindWords.pdb
+F:\repos\M2-Dictionary\FindWords\obj\Debug\FindWords.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\FindWords\obj\Debug\FindWords.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\FindWords\obj\Debug\FindWords.exe
+F:\repos\M2-Dictionary\FindWords\obj\Debug\FindWords.pdb

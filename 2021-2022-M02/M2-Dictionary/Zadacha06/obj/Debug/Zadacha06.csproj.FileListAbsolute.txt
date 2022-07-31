@@ -1,0 +1,6 @@
+F:\repos\M2-Dictionary\Zadacha06\bin\Debug\Zadacha06.exe.config
+F:\repos\M2-Dictionary\Zadacha06\bin\Debug\Zadacha06.exe
+F:\repos\M2-Dictionary\Zadacha06\bin\Debug\Zadacha06.pdb
+F:\repos\M2-Dictionary\Zadacha06\obj\Debug\Zadacha06.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\Zadacha06\obj\Debug\Zadacha06.exe
+F:\repos\M2-Dictionary\Zadacha06\obj\Debug\Zadacha06.pdb

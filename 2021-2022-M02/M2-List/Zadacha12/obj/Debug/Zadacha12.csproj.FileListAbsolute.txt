@@ -1,0 +1,6 @@
+F:\repos\M2-List\Zadacha12\bin\Debug\Zadacha12.exe.config
+F:\repos\M2-List\Zadacha12\bin\Debug\Zadacha12.exe
+F:\repos\M2-List\Zadacha12\bin\Debug\Zadacha12.pdb
+F:\repos\M2-List\Zadacha12\obj\Debug\Zadacha12.csproj.CoreCompileInputs.cache
+F:\repos\M2-List\Zadacha12\obj\Debug\Zadacha12.exe
+F:\repos\M2-List\Zadacha12\obj\Debug\Zadacha12.pdb

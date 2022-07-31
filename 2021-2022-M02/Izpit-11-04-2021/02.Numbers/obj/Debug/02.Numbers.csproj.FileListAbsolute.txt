@@ -1,0 +1,6 @@
+F:\repos\Izpit-11-04-2021\02.Numbers\bin\Debug\02.Numbers.exe.config
+F:\repos\Izpit-11-04-2021\02.Numbers\bin\Debug\02.Numbers.exe
+F:\repos\Izpit-11-04-2021\02.Numbers\bin\Debug\02.Numbers.pdb
+F:\repos\Izpit-11-04-2021\02.Numbers\obj\Debug\02.Numbers.csproj.CoreCompileInputs.cache
+F:\repos\Izpit-11-04-2021\02.Numbers\obj\Debug\02.Numbers.exe
+F:\repos\Izpit-11-04-2021\02.Numbers\obj\Debug\02.Numbers.pdb

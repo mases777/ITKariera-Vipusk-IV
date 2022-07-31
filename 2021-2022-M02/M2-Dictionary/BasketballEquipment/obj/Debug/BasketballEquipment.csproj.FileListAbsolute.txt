@@ -1,0 +1,6 @@
+F:\repos\M2-Dictionary\BasketballEquipment\bin\Debug\BasketballEquipment.exe.config
+F:\repos\M2-Dictionary\BasketballEquipment\bin\Debug\BasketballEquipment.exe
+F:\repos\M2-Dictionary\BasketballEquipment\bin\Debug\BasketballEquipment.pdb
+F:\repos\M2-Dictionary\BasketballEquipment\obj\Debug\BasketballEquipment.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\BasketballEquipment\obj\Debug\BasketballEquipment.exe
+F:\repos\M2-Dictionary\BasketballEquipment\obj\Debug\BasketballEquipment.pdb

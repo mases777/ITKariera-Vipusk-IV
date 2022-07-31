@@ -1,0 +1,6 @@
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\bin\Debug\04.ShoppingTime.exe.config
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\bin\Debug\04.ShoppingTime.exe
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\bin\Debug\04.ShoppingTime.pdb
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\obj\Debug\04.ShoppingTime.csproj.CoreCompileInputs.cache
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\obj\Debug\04.ShoppingTime.exe
+F:\repos\Izpit-11-04-2021\04.ShoppingTime\obj\Debug\04.ShoppingTime.pdb

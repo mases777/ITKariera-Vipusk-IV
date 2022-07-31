@@ -1,0 +1,7 @@
+F:\repos\Izpit-11-04-2021\01.EasterEggs\bin\Debug\01.EasterEggs.exe.config
+F:\repos\Izpit-11-04-2021\01.EasterEggs\bin\Debug\01.EasterEggs.exe
+F:\repos\Izpit-11-04-2021\01.EasterEggs\bin\Debug\01.EasterEggs.pdb
+F:\repos\Izpit-11-04-2021\01.EasterEggs\obj\Debug\01.EasterEggs.csprojAssemblyReference.cache
+F:\repos\Izpit-11-04-2021\01.EasterEggs\obj\Debug\01.EasterEggs.csproj.CoreCompileInputs.cache
+F:\repos\Izpit-11-04-2021\01.EasterEggs\obj\Debug\01.EasterEggs.exe
+F:\repos\Izpit-11-04-2021\01.EasterEggs\obj\Debug\01.EasterEggs.pdb

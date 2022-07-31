@@ -1,0 +1,7 @@
+F:\repos\M2-Dictionary\Resurresction\bin\Debug\Resurresction.exe.config
+F:\repos\M2-Dictionary\Resurresction\bin\Debug\Resurresction.exe
+F:\repos\M2-Dictionary\Resurresction\bin\Debug\Resurresction.pdb
+F:\repos\M2-Dictionary\Resurresction\obj\Debug\Resurresction.csprojAssemblyReference.cache
+F:\repos\M2-Dictionary\Resurresction\obj\Debug\Resurresction.csproj.CoreCompileInputs.cache
+F:\repos\M2-Dictionary\Resurresction\obj\Debug\Resurresction.exe
+F:\repos\M2-Dictionary\Resurresction\obj\Debug\Resurresction.pdb

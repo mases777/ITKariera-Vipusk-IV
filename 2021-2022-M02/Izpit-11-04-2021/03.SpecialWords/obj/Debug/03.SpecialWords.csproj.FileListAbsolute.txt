@@ -1,0 +1,7 @@
+F:\repos\Izpit-11-04-2021\03.SpecialWords\bin\Debug\03.SpecialWords.exe.config
+F:\repos\Izpit-11-04-2021\03.SpecialWords\bin\Debug\03.SpecialWords.exe
+F:\repos\Izpit-11-04-2021\03.SpecialWords\bin\Debug\03.SpecialWords.pdb
+F:\repos\Izpit-11-04-2021\03.SpecialWords\obj\Debug\03.SpecialWords.csprojAssemblyReference.cache
+F:\repos\Izpit-11-04-2021\03.SpecialWords\obj\Debug\03.SpecialWords.csproj.CoreCompileInputs.cache
+F:\repos\Izpit-11-04-2021\03.SpecialWords\obj\Debug\03.SpecialWords.exe
+F:\repos\Izpit-11-04-2021\03.SpecialWords\obj\Debug\03.SpecialWords.pdb

@@ -1,0 +1,7 @@
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\bin\Debug\03.WordGame.exe.config
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\bin\Debug\03.WordGame.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\bin\Debug\03.WordGame.pdb
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\obj\Debug\03.WordGame.csproj.CoreCompileInputs.cache
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\obj\Debug\03.WordGame.exe
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\obj\Debug\03.WordGame.pdb
+F:\repos\popravitelen-izpit-M2-25-04-2021\03.WordGame\obj\Debug\03.WordGame.csprojAssemblyReference.cache
