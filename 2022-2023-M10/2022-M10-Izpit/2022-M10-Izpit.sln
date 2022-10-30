@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha01", "Zadacha01\Zadacha01.csproj", "{2C857EA6-08B1-4100-AA1F-A0F670FA4AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha02", "Zadacha02\Zadacha02.csproj", "{FD82E021-FFCE-4A2F-A969-3A4D3A3E08D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C857EA6-08B1-4100-AA1F-A0F670FA4AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C857EA6-08B1-4100-AA1F-A0F670FA4AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C857EA6-08B1-4100-AA1F-A0F670FA4AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C857EA6-08B1-4100-AA1F-A0F670FA4AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD82E021-FFCE-4A2F-A969-3A4D3A3E08D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD82E021-FFCE-4A2F-A969-3A4D3A3E08D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD82E021-FFCE-4A2F-A969-3A4D3A3E08D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD82E021-FFCE-4A2F-A969-3A4D3A3E08D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F02DF5-C717-455C-980B-460689012300}
+	EndGlobalSection
+EndGlobal
